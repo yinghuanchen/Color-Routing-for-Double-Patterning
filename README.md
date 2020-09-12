@@ -9,8 +9,10 @@ Detailed report can be found [here](https://drive.google.com/file/d/1CWDREImN59Q
 
 ## File tree 
  * Directory:
+ ````
   doc/		reports
   src/ 		source C++ codes
+  ````
  * How to compile:
  ````
 	cd final/
