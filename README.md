@@ -7,18 +7,14 @@ be as uniform as possible. The input files consist of three smaller files: pin f
 
 Detailed report can be found [here](https://drive.google.com/file/d/1CWDREImN59Q_eaBa4h6AJu1to5-KOGTM/view?usp=sharing)
 
-## 
-
-## Directory:
+## File tree 
+ * Directory:
   doc/		reports
   src/ 		source C++ codes
-  
-## How to compile:
-
+ * How to compile:
 	cd final/
 	make
-	
-## HOW TO RUN, NOTICE THAT BINARY FILE IS NOT IN THE bin DIRECTORY
+* HOW TO RUN, NOTICE THAT BINARY FILE IS NOT IN THE bin DIRECTORY
 ````
   ./color_route case1_pin.in case1_net.in case1_blockage.in case1_result.out
 ````
