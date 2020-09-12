@@ -12,8 +12,10 @@ Detailed report can be found [here](https://drive.google.com/file/d/1CWDREImN59Q
   doc/		reports
   src/ 		source C++ codes
  * How to compile:
+ ````
 	cd final/
 	make
+````
 * HOW TO RUN, NOTICE THAT BINARY FILE IS NOT IN THE bin DIRECTORY
 ````
   ./color_route case1_pin.in case1_net.in case1_blockage.in case1_result.out
